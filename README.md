@@ -22,19 +22,11 @@ I'm a passionate web developer with a love for creating efficient, scalable, and
   
 - https://www.hackerrank.com/certificates/4aed24eb4cfe
   
-  ![SQL](https://github.com/ankitsriv76/ankitsriv76/assets/70582028/092c3584-a274-4df1-bdee-c9e7b0b6e0d4)
-
 - https://www.credly.com/badges/8070462f-3284-4e47-8cbc-20aec16d71b0?source=linked_in_profile
-
-  ![microsoft](https://github.com/ankitsriv76/ankitsriv76/assets/70582028/907517dc-b4cc-4830-b519-09d109c3f140)
 
 - https://www.credly.com/badges/d86865b0-fa47-4830-b427-d04c2851acc6/linked_in_profile
 
-  ![Microsoft Azure Fundamentals AZ-900](https://github.com/ankitsriv76/ankitsriv76/assets/70582028/da36a296-d066-4306-b16f-faeea88ef56d)
-
 - https://www.credly.com/badges/8a230725-1e9b-45bd-9873-515123a7d929/linked_in_profile
-
-  ![EC-Council_page-0001](https://github.com/ankitsriv76/ankitsriv76/assets/70582028/745b7594-099e-499a-9579-55a29c4c863d)
 
 
   
