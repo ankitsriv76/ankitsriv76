@@ -36,7 +36,7 @@ I believe in continuous learning, and currently, I'm diving into React Js., aimi
 
 #### 🤝 Let's Connect
 
-I'm always open to collaboration and learning from fellow developers. Let's connect and build something amazing together! Feel free to reach out to me on Linkdin [https://www.linkedin.com/in/ankit-kumar-srivastava-075182155/].
+I'm always open to collaboration and learning from fellow developers. Let's connect and build something amazing together! Feel free to reach out to me on Linkdin [https://www.linkedin.com/in/-srivastava-ankit/].
 
 
 Thanks for stopping by! 👨‍💻✨
